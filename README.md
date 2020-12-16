@@ -1,0 +1,2 @@
+# Dashboard-Ventas-vs-Confirmados
+El presente análisis es sobre la comparación de las ventas por Familia-Departamento en una empresa con enfoque de comida rápida vs el incremento de casos confirmados de COVID-19 en la ciudad de Hermosillo, Sonora. En el periodo de enero a septiembre de 2020.  Se comparara las ventas en piso/pedido-telefónico semanales vs el número de casos confirmados positivos de COVID-19.  Se comparara las ventas mensuales en UBER vs el número de casos confirmados positivos de COVID-19.
